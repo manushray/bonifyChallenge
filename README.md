@@ -1,6 +1,6 @@
 # bonifyChallenge
 
-# I have completed all the 3 Tasks mentioned in the Challenge,I have created a partial Automation Framework comprise of (Selenium+JAVA+Page Object Model+TestNG+Extent Report).
+# I have completed all the 3 Tasks mentioned in the Challenge,I have created a partial Automation Framework comprise of (Selenium+JAVA+Page Object Model+TestNG+MAVEN+Extent Report).
 
 # TASK 1: 
 I have found 6 bugs (2 in bonify.de site & 4 in my.bonify.de) and mention those in Bugs_LIST.xslx file which has 2 sheet in it.(There were many performance related issues but I was not sure whether its the right place to file it so didnt attach the JMeter script)  
