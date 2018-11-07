@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Bonify WebApplication Suite" parallel="tests" verbose="2">
+	<test name="Bonify WebApplication" group-by-instances="true" preserve-order="true" enabled="true">
+		
+		
+		<classes >
+		  	<class name="bonifyAppAutomation.bonifyAutomationApp.LoginPageTest"/>
+			<class name="bonifyAppAutomation.bonifyAutomationApp.FinancePageTest"/>
+			
+		</classes>
+		
+	</test>
+
+</suite>
